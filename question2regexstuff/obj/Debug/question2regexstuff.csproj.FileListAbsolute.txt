@@ -1,0 +1,9 @@
+C:\Users\samue\Desktop\advprogramming\question2regexstuff\question2regexstuff\bin\Debug\question2regexstuff.exe.config
+C:\Users\samue\Desktop\advprogramming\question2regexstuff\question2regexstuff\bin\Debug\question2regexstuff.exe
+C:\Users\samue\Desktop\advprogramming\question2regexstuff\question2regexstuff\bin\Debug\question2regexstuff.pdb
+C:\Users\samue\Desktop\advprogramming\question2regexstuff\question2regexstuff\obj\Debug\question2regexstuff.csprojResolveAssemblyReference.cache
+C:\Users\samue\Desktop\advprogramming\question2regexstuff\question2regexstuff\obj\Debug\question2regexstuff.Form1.resources
+C:\Users\samue\Desktop\advprogramming\question2regexstuff\question2regexstuff\obj\Debug\question2regexstuff.Properties.Resources.resources
+C:\Users\samue\Desktop\advprogramming\question2regexstuff\question2regexstuff\obj\Debug\question2regexstuff.csproj.GenerateResource.Cache
+C:\Users\samue\Desktop\advprogramming\question2regexstuff\question2regexstuff\obj\Debug\question2regexstuff.exe
+C:\Users\samue\Desktop\advprogramming\question2regexstuff\question2regexstuff\obj\Debug\question2regexstuff.pdb
